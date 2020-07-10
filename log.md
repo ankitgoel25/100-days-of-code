@@ -2,9 +2,17 @@
 
 The log of my #100DaysOfCode challenge. Started on [July 8, Wednesday, 2020].
 
+### Day 2: July 10, Friday
+
+**Today's Progress**: Solved some Cpp problems today @Hackerrank, completed some css tasks at freecodecamp and learned about Express Generator, Intro to MongoDB and REPL shell.
+
+**Thoughts**: Today, i build some confidence in cpp actually lost due to frustation but I kept calm, it took time but yes it feels good! Should have completed more tasks at freecodecamp but okay, got bored! Node and MongoDB tomorrow!
+
+**Link(s) to work**: [Cpp Problems](https://www.hackerrank.com/domains/cpp?filters%5Bsubdomains%5D%5B%5D=stl)
+
 ### Day 1: July 9, Thursday
 
-**Today's Progress**: Learned about Web Services - SOAP and REST, mainly REST API. Learned Express Framework and implemented CRUD operations usind Express Router. Complted Week 1 Assignment on Coursera!
+**Today's Progress**: Learned about Web Services - SOAP and REST, mainly REST API. Learned Express Framework and implemented CRUD operations using Express Router. Completed Week 1 Assignment on Coursera!
 
 **Thoughts**: Going a little bit slow, should speed up. 'll try to catchup this week on time.
 

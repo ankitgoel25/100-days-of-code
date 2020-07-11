@@ -2,6 +2,14 @@
 
 The log of my #100DaysOfCode challenge. Started on [July 8, Wednesday, 2020].
 
+### Day 3: July 11, Saturday
+
+**Today's Progress**: Worked for REB project! Updated search-bar, home and login css!
+
+**Thoughts**: Responsive css is a crazy thing to update!🤦‍♂️ But feels good after completion😛
+
+**Link(s) to work**: None
+
 ### Day 2: July 10, Friday
 
 **Today's Progress**: Solved some Cpp problems today @Hackerrank, completed some css tasks at freecodecamp and learned about Express Generator, Intro to MongoDB and REPL shell.

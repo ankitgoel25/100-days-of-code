@@ -2,6 +2,14 @@
 
 The log of my #100DaysOfCode challenge. Started on [July 8, Wednesday, 2020].
 
+### Day 4: July 12, Sunday
+
+**Today's Progress**: Worked for REB project! Updated css! Solved some cpp problems @LeetCode
+
+**Thoughts**: Got frustated today, actually for few secs it was like brainwash, due to conflicts in REB. Solved later! Haven't done much today...
+
+**Link(s) to work**: None
+
 ### Day 3: July 11, Saturday
 
 **Today's Progress**: Worked for REB project! Updated search-bar, home and login css!

@@ -2,6 +2,16 @@
 
 The log of my #100DaysOfCode challenge. Started on [July 8, Wednesday, 2020].
 
+### Day 5: July 14, Tuesday
+
+**Today's Progress**: Solved some cpp problems! Learned about using Node with MongoDB driver @Coursera.
+
+**Thoughts**: I could utilize much more time today!
+
+**Link(s) to work**: None
+
+> Skipped a day July 13, Monday!
+
 ### Day 4: July 12, Sunday
 
 **Today's Progress**: Worked for REB project! Updated css! Solved some cpp problems @LeetCode

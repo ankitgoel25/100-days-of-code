@@ -2,6 +2,14 @@
 
 The log of my #100DaysOfCode challenge. Started on [July 8, Wednesday, 2020].
 
+### Day 6: July 15, Wednesday
+
+**Today's Progress**: Worked for REB project! Created Dashboard page, made it complete responsive, and started Search page. Also added animation in the header or nav-bar for the Search page, looking awesome! 😁
+
+**Thoughts**: Tomorrow I'll be completing the Search page, many things are there in it to complete. Gonna add click event on bookmark icon, slider buttons.
+
+**Link(s) to work**: None
+
 ### Day 5: July 14, Tuesday
 
 **Today's Progress**: Solved some cpp problems! Learned about using Node with MongoDB driver @Coursera.

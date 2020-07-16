@@ -2,6 +2,14 @@
 
 The log of my #100DaysOfCode challenge. Started on [July 8, Wednesday, 2020].
 
+### Day 7: July 16, Thursday
+
+**Today's Progress**: Worked for REB project! Completed Search page, made it complete responsive.
+
+**Thoughts**: Tables sucks. Divs are so easy to work on! Gotta go for cycling soon
+
+**Link(s) to work**: None
+
 ### Day 6: July 15, Wednesday
 
 **Today's Progress**: Worked for REB project! Created Dashboard page, made it complete responsive, and started Search page. Also added animation in the header or nav-bar for the Search page, looking awesome! 😁

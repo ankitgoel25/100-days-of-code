@@ -2,6 +2,26 @@
 
 The log of my #100DaysOfCode challenge. Started on [July 8, Wednesday, 2020].
 
+### Day 9: July 20, Friday
+
+**Today's Progress**: After 2 days break! Started new WebD project! Designed the home page, will be making it responsive tomorrow! Created a carousel with vanilla JS today! Later, added the flip card animation to it!
+
+**Thoughts**: Felt good after creating the carousel, unlike others just copying and pasting the code! Gives confidence, basics get stronger!
+
+**Link(s) to work**: None
+
+> Skipped 2 days July 18 and 19! 
+>
+> Just little bit of work, like for a hackathon, build the "CodeGems" website!
+
+### Day 8: July 17, Friday
+
+**Today's Progress**: Attended 2 workshops on Blockchain via Ark.io and Actions on Google. Read a little bit of Expressjs documentation!
+
+**Thoughts**: First workshop was a total shit. AOG was okayish.
+
+**Link(s) to work**: [Exress](https://expressjs.com/en/api.html#express)
+
 ### Day 7: July 16, Thursday
 
 **Today's Progress**: Worked for REB project! Completed Search page, made it complete responsive.

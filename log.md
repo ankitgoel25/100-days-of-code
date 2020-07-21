@@ -2,6 +2,14 @@
 
 The log of my #100DaysOfCode challenge. Started on [July 8, Wednesday, 2020].
 
+### Day 10: July 21, Saturday
+
+**Today's Progress**: Worked on the project, made the home page responsive for 2 breakpoints. Took time for first breakpoint, then its just changing values.
+
+**Thoughts**: Patience brings satisfaction!
+
+**Link(s) to work**: None
+
 ### Day 9: July 20, Friday
 
 **Today's Progress**: After 2 days break! Started new WebD project! Designed the home page, will be making it responsive tomorrow! Created a carousel with vanilla JS today! Later, added the flip card animation to it!

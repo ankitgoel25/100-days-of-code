@@ -2,7 +2,17 @@
 
 The log of my #100DaysOfCode challenge. Started on [July 8, Wednesday, 2020].
 
-### Day 10: July 21, Saturday
+### <center>```Be patient! Be calm! Take a Break...!```</center>
+
+### Day 11: July 22, Wednesday
+
+**Today's Progress**: Worked on the project, completed mobile responsive for the home page, created contact page without UI being provided (took reference from some related links).
+
+**Thoughts**: If we could just feed **_all_** the stuff into our brain at once!😂 Nops, not frustated, it came just now😛!
+
+**Link(s) to work**: None
+
+### Day 10: July 21, Tuesday
 
 **Today's Progress**: Worked on the project, made the home page responsive for 2 breakpoints. Took time for first breakpoint, then its just changing values.
 
@@ -10,7 +20,7 @@ The log of my #100DaysOfCode challenge. Started on [July 8, Wednesday, 2020].
 
 **Link(s) to work**: None
 
-### Day 9: July 20, Friday
+### Day 9: July 20, Monday
 
 **Today's Progress**: After 2 days break! Started new WebD project! Designed the home page, will be making it responsive tomorrow! Created a carousel with vanilla JS today! Later, added the flip card animation to it!
 
@@ -28,7 +38,7 @@ The log of my #100DaysOfCode challenge. Started on [July 8, Wednesday, 2020].
 
 **Thoughts**: First workshop was a total shit. AOG was okayish.
 
-**Link(s) to work**: [Exress](https://expressjs.com/en/api.html#express)
+**Link(s) to work**: [Express](https://expressjs.com/en/api.html#express)
 
 ### Day 7: July 16, Thursday
 

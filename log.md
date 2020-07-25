@@ -4,6 +4,22 @@ The log of my #100DaysOfCode challenge. Started on [July 8, Wednesday, 2020].
 
 ### <center>```Be patient! Be calm! Take a Break...!```</center>
 
+### Day 14: July 25, Saturday
+
+**Today's Progress**: Worked on the project, changed contact page, build an **"Accordion"** using vanilla Js, looks great! Added availability of centres on the xray page!
+
+**Thoughts**: Is it good to use front end frameworks or basics to develop a website?🤔 Going too slow these days...dont know I just waste all the time!
+
+**Link(s) to work**: None
+
+### Day 12 and 13: July 23 and 24, Thursday & Friday
+
+**Today's Progress**: Haven't done much... Worked on the project, created xray page and started changing contact page!
+
+**Thoughts**: I have a joke on Python, but it's not "in range" !😛 Being too lazy and searching designs takes time and a lil boring as well.
+
+**Link(s) to work**: None
+
 ### Day 11: July 22, Wednesday
 
 **Today's Progress**: Worked on the project, completed mobile responsive for the home page, created contact page without UI being provided (took reference from some related links).
